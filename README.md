@@ -16,7 +16,7 @@
     <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
   <a href="">
-    <img src="https://img.shields.io/badge/Personal_Website-Angelo-Muniz-blue?style=for-the-badge" alt="Personal Website Badge"/>
+    <img src="https://img.shields.io/badge/Personal_Website-Angelo_Muniz-blue?style=for-the-badge" alt="Personal Website Badge"/>
   </a>
 </div>
 
