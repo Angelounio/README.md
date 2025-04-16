@@ -4,10 +4,10 @@
   <img src="https://capsule-render.vercel.app/api?text=Hey%20Everyone!&animation=fadeIn&type=waving&color=gradient&customColorList=4&height=100"/>
 </div>
 
-<div id="header" align="center">
+/* <div id="header" align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDk0ZXA3ODUxbWtuZmZhc3JvZHYzc29vNWYydHh4b3dtN2ZoMW84OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif" width="100"/>
 </div>
-
+*/
 <div id="badges" align="center"> 
   <a href="http://www.linkedin.com/in/angelo-muniz-42a767212">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
