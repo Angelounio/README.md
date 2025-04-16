@@ -4,10 +4,10 @@
   <img src="https://capsule-render.vercel.app/api?text=Hey%20Everyone!&animation=fadeIn&type=waving&color=gradient&customColorList=4&height=100"/>
 </div>
 
-/* <div id="header" align="center">
+ <div id="header" align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDk0ZXA3ODUxbWtuZmZhc3JvZHYzc29vNWYydHh4b3dtN2ZoMW84OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif" width="100"/>
 </div>
-*/
+
 <div id="badges" align="center"> 
   <a href="http://www.linkedin.com/in/angelo-muniz-42a767212">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -16,7 +16,7 @@
     <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
   <a href="">
-    <img src="https://img.shields.io/badge/Personal_Website-Genesis_Umanzor-blue?style=for-the-badge" alt="Personal Website Badge"/>
+    <img src="https://img.shields.io/badge/Personal_Website-Angelo-Muniz-blue?style=for-the-badge" alt="Personal Website Badge"/>
   </a>
 </div>
 
@@ -37,7 +37,7 @@
 ---
 
 ### :man_technologist: About Me :
-My name is Angelo Muiz, and I am a Data-Analysist-In_training.
+My name is Angelo Muniz, and I am a Data-Analysist-In_training.
 - During my free time enjoy going to the gym, playing video games (particularly God of War jajaja) and also enjoying learning more about data analysis techniques and theories.
 - On my page you will mainly find projects that Ive done in order to hone in on my skills in data and development.
 
